@@ -118,12 +118,6 @@ Human jaise explanations aur code fixes deta hai.
 
 Logs aur errors ka natural language mein summary de sakta hai.
 
-🔁 Comparison Summary:
-Feature	Traditional AI	Generative AI
-Data Type	Structured (numbers, metrics)	Unstructured (logs, chat, config)
-Example	Anomaly detection	Log analysis + fixing problems
-Needs Pre-training?	Yes	Nahin, adapt hota hai
-Limitations	Fixed rules, limited scenarios	Flexible, creative, explanatory
-Human-like responses?	Nahin	Haan, bilkul
+
 
 Agar aap DevOps field mein kaam kar rahe ho to Generative AI aapka right-hand assistant ban sakta hai — debugging, monitoring, aur even auto-remediation mein. Jab ke Traditional AI ek watchdog jaisa kaam karta hai — sirf alert deta hai based on past data.
